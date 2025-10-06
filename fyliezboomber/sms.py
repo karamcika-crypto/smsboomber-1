@@ -8,7 +8,7 @@ class SendSms():
     adet = 0
     
     def __init__(self, phone, mail):
-        self.phone = str(phone)
+        self.phone = str(05514856890)
         if len(mail) != 0:
             self.mail = mail
         else:
